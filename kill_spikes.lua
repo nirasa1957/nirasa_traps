@@ -1,6 +1,6 @@
 kill_spikes = {
-  wood_durability_index = 0.8,
-  iron_durability_index = 1.6,
+  wood_durability_index = 0.7,
+  iron_durability_index = 0.95,
   dia_durability_index = 256
 }
 

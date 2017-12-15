@@ -12,8 +12,10 @@ From wood spikes: 3 sticks,
 From iron spikes: 2 iron ingots, 
 From diamond spikes: 2 diamonts. 
 
-Download:
-https://github.com/nirasa1957/kill_spikes
+Dependence: default
+
+Download: https://github.com/nirasa1957/kill_spikes
+GitHub: https://github.com/nirasa1957/kill_spikes
 
 Author:
 Xeranas, Nirasa

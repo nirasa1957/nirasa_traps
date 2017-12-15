@@ -15,6 +15,9 @@ From diamond spikes: 2 diamonts.
 Download:
 https://github.com/nirasa1957/kill_spikes
 
+Author:
+Xeranas, Nirasa
+
 License of source code:
 -----------------------
 MIT

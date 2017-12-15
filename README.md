@@ -14,12 +14,14 @@ From diamond spikes: 2 diamonts.
 
 Dependence: default
 
-Download: https://github.com/nirasa1957/kill_spikes
-
+Download: https://github.com/nirasa1957/kill_spikes  
 GitHub: https://github.com/nirasa1957/kill_spikes
 
 Author:
 Xeranas, Nirasa
+
+Forum:
+https://forum.minetest.net/viewtopic.php?f=9&t=19028
 
 License of source code:
 -----------------------
